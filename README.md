@@ -1,6 +1,6 @@
 # Nat
 
-VB6 NAT discovery and tooling suite bundled as one repo: Discover, Discover2, Broker, Ping, Collect, and Reader — each with its own `.vbp`. Open the relevant `.vbp` in the VB6 IDE.
+VB6 NAT discovery and tooling suite bundled as one repo: Discover, Discover2, Broker, Ping, Collect, and Reader - each with its own `.vbp`. Open the relevant `.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
